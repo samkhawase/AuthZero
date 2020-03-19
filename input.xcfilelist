@@ -1,0 +1,4 @@
+$(SRCROOT)/Carthage/Build/iOS/JWTDecode.framework
+$(SRCROOT)/Carthage/Build/iOS/SimpleKeychain.framework
+$(SRCROOT)/Carthage/Build/iOS/Auth0.framework
+
