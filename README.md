@@ -1,5 +1,6 @@
 # AuthZero
-AuthZero integration with Postgrest
+AuthZero integration with Postgrest. 
+This is part of the [blog series](https://samkhawase.com/blog/postgrest) about PostgREST API tutorial, and it's integration with Auth0. 
 
 ## Getting Started
 
